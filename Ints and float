@@ -1,4 +1,17 @@
-In simple terms, an **int (integer)** is a whole number without decimals, like 1, 2, or 100.
+Int (Integer): An int is a whole number without decimals. It can be positive, negative, or zero, and does not include any fractional part. Example: 7, -2, 0 are all integers.​
 
-A **float** is a number with decimals, like 3.14 or 0.5.
+Float (Floating-point number): A float is a number that has a decimal point or is written in exponential (scientific) notation. It can represent negative or positive real numbers including fractions. Example: 3.14, -0.5, 2.0, or 1e6 are floats.
 
+Ints and Floats
+20 / 4
+4 + 4.0
+4 * 4.0
+4 ** 4.0
+int(4 ** 4.0)
+int(8.9)
+int(8.99999999)
+int(14/3)
+round(14/3, 2)
+1.2 - 1.0
+14/3
+round(1.2 - 1.0, 2)
